@@ -764,3 +764,8 @@ body {
 	display: none;
 }
 
+/* Robs style piece that I needed */
+.coffeeMenu {
+		margin-top: 25px;
+	}
+
