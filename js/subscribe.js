@@ -1,0 +1,1 @@
+eOrderForm.addEventListener('submit', placeOrder, false); 
